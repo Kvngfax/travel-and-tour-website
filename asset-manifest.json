@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/travel-and-tour-website/static/css/main.d60e512a.css",
+    "main.js": "/travel-and-tour-website/static/js/main.1f2e281c.js",
+    "static/js/787.0c6ad98f.chunk.js": "/travel-and-tour-website/static/js/787.0c6ad98f.chunk.js",
+    "static/media/video.mp4": "/travel-and-tour-website/static/media/video.e73d2cc8683d8a97b959.mp4",
+    "static/media/pic8.jpg": "/travel-and-tour-website/static/media/pic8.f93de6af2d1ee47c35b5.jpg",
+    "static/media/pic6.jpg": "/travel-and-tour-website/static/media/pic6.f9d5c43d1c4d755a95f5.jpg",
+    "static/media/pic7.jpg": "/travel-and-tour-website/static/media/pic7.8d9c0a90fb9c09f47671.jpg",
+    "static/media/pic2.jpg": "/travel-and-tour-website/static/media/pic2.99e2c3eef65912b65b1d.jpg",
+    "static/media/pic4.jpg": "/travel-and-tour-website/static/media/pic4.a37d2bf7fc31fb6f06f6.jpg",
+    "static/media/pic1.jpg": "/travel-and-tour-website/static/media/pic1.d2d7767bc9417df20985.jpg",
+    "static/media/pic3.jpg": "/travel-and-tour-website/static/media/pic3.0b467bebcd2805e38f9b.jpg",
+    "static/media/pic9.jpg": "/travel-and-tour-website/static/media/pic9.12a21155fc640cecdf1f.jpg",
+    "static/media/pic5.jpg": "/travel-and-tour-website/static/media/pic5.a4b448e84c2d13086980.jpg",
+    "index.html": "/travel-and-tour-website/index.html",
+    "main.d60e512a.css.map": "/travel-and-tour-website/static/css/main.d60e512a.css.map",
+    "main.1f2e281c.js.map": "/travel-and-tour-website/static/js/main.1f2e281c.js.map",
+    "787.0c6ad98f.chunk.js.map": "/travel-and-tour-website/static/js/787.0c6ad98f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d60e512a.css",
+    "static/js/main.1f2e281c.js"
+  ]
+}
